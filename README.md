@@ -11,7 +11,7 @@ Minggu 17 Agustus 2025
 3. Lalu masukan port di **Bridge > Ports > Add**.  
 ![q](IMAGES/parajembatan.PNG)  
 
-4. Buat IP DHCP Client ke interface yang terhubung ke internet untuk akses internet di **IP > DHCP CLIENT**.  
+4. Buat DHCP Client ke interface yang terhubung ke internet untuk akses internet di **IP > DHCP CLIENT**.  
 ![q](IMAGES/pelanggan.PNG)  
   
 5. Buat IP Static untuk interface bridge di **IP > Address**.  
