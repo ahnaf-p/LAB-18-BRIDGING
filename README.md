@@ -1,4 +1,4 @@
-<img width="460" height="390" alt="image" src="https://github.com/user-attachments/assets/dbcecb99-3b2e-46d2-9209-600e90a749ac" /><img width="845" height="384" alt="image" src="https://github.com/user-attachments/assets/44a542f0-1358-4f39-bba5-b339bfb5868e" /># LAB-18-BRIDGING
+# LAB-18-BRIDGING
 Minggu 17 Agustus 2025
 
 # Konfigurasi Bridging  pada  MikroTik
